@@ -1,5 +1,5 @@
+.idea/
 .metadata/
 Servers/
-*.log
-*.bak
-*.lck
+*.iml
+/target/
